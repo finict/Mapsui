@@ -10,7 +10,7 @@ In the package manager console type:
 PM> Install-Package Mapsui.Wpf -pre
 ```
 
-### Step 4
+### Step 3
 In MainWindow.xaml.cs add in the constructor **after** InitializeComponent():
 
 ```csharp
